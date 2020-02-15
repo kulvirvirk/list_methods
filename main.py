@@ -18,6 +18,11 @@ print(my_fruits_list)
 print('----------------*****----------------')
 
 # 3. use insert(), to insert another fruit in the list
+print(my_fruits_list)
+my_fruits_list.insert(2,'kiwi')
+print(my_fruits_list)
+print('----------------*****----------------')
+
 # 4. use extend() method to add elements to the list
 # 5. use pop() method to pop one of the elements from list
 # 6. use remove() method to remove fruit from the list
