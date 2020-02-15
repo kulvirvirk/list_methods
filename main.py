@@ -24,6 +24,13 @@ print(my_fruits_list)
 print('----------------*****----------------')
 
 # 4. use extend() method to add elements to the list
+print(my_fruits_list)
+second_fruits_list = ['mango', 'apple']
+my_fruits_list.extend(second_fruits_list)
+print(my_fruits_list)
+print('----------------*****----------------')
+
+
 # 5. use pop() method to pop one of the elements from list
 # 6. use remove() method to remove fruit from the list
 # 7. use clear () method to clear the list 
