@@ -37,5 +37,10 @@ print(my_fruits_list)
 print('----------------*****----------------')
 
 # 6. use remove() method to remove fruit from the list
+print(my_fruits_list)
+my_fruits_list.remove('kiwi')
+print(my_fruits_list)
+print('----------------*****----------------')
+
 # 7. use clear () method to clear the list 
 
