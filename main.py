@@ -43,4 +43,9 @@ print(my_fruits_list)
 print('----------------*****----------------')
 
 # 7. use clear () method to clear the list 
+print(my_fruits_list)
+my_fruits_list.clear()
+print(my_fruits_list)
+print('----------------*****----------------')
+
 
