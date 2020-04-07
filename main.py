@@ -1,4 +1,6 @@
 
+# The list is a collection that is ordered and changeable. Allows duplicate members.
+# List can contain other lists
 # 1. create a list of fruits 
 # 2. using append(), add fruit to the list
 # 3. use insert(), to insert another fruit in the list
